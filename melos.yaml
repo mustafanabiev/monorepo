@@ -1,0 +1,15 @@
+name: quran
+
+packages:
+  - app/**
+  - packages/**
+
+command:
+  version:
+    branch: master
+    releaseUrl: true
+
+scripts:
+  format:
+    run: melos exec dart format . --fix
+    description: Run `dart format` for all packages.
