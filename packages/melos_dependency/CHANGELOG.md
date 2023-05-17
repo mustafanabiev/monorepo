@@ -1,3 +1,7 @@
+## 0.1.2
+
+ - **FEAT**: delete.
+
 ## 0.1.1
 
  - **FEAT**: cllaaa.
