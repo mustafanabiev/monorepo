@@ -1,1 +1,2 @@
-A realy new feature
+A realy new feature 
+And anouther one
