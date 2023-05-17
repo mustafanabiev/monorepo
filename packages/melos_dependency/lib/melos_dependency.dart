@@ -9,3 +9,5 @@ class Calculator {
 class Calculator2 {}
 
 class Calculator3 {}
+
+class Calculator4 {}
