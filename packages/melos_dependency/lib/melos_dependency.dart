@@ -13,3 +13,5 @@ class Calculator3 {}
 class Calculator4 {}
 
 class Calculator5 {}
+
+class Calculator7 {}
