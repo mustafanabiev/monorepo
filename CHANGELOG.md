@@ -15,6 +15,28 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`melos_dependency` - `v0.1.1`](#melos_dependency---v011)
+
+---
+
+#### `melos_dependency` - `v0.1.1`
+
+ - **FEAT**: cllaaa.
+ - **FEAT**: cllaa.
+
+
+## 2023-05-17
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`melos_dependency` - `v0.1.0`](#melos_dependency---v010)
 
 ---
