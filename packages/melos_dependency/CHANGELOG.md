@@ -1,3 +1,7 @@
+## 0.0.3
+
+ - **FEAT**: new class created.
+
 ## 0.0.2
 
  - **FEAT**: Class3.
