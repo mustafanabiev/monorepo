@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`melos_dependency` - `v0.1.0`](#melos_dependency---v010)
+
+---
+
+#### `melos_dependency` - `v0.1.0`
+
+ - **FEAT**: new class.
+
+
+## 2023-05-17
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`melos_dependency` - `v0.0.3`](#melos_dependency---v003)
 
 ---
