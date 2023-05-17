@@ -1,7 +1,7 @@
 name: quran
 
 packages:
-  - app/**
+  - app
   - packages/**
 
 command:
